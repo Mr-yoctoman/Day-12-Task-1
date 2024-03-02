@@ -1,0 +1,14 @@
+.sameline {
+  display: inline !important;
+}
+th {
+  padding: 15px;
+}
+/* td {
+  text-align: center !important;
+} */
+
+textarea {
+  margin: 15px;
+  padding: 15px;
+}
